@@ -18,11 +18,17 @@ To-do:
 v0.2
 
 Added .json file for ISM topic list
+
 Created result page
+
 Result page now processes the information from a .json file
+
 Result page now displays the appropriate pdf on a specified page
+
 Result page now creates DIVs to hold PDFs dynamically depending on a number of PDFs to show
+
 Index now has a single link to a result page from 'Extreme programming' topic
+
 
 To-do:
   1. Send the topic name from index to result page for processing
