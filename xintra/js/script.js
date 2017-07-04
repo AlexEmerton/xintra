@@ -1,5 +1,6 @@
  $(document).ready(function() {
 	$("#module").change(function() {
+		
     var opt = $(this) ;
 	
 	$('#search').load('lists/' + $(this).val() + '.html');
@@ -25,3 +26,4 @@ function myFunction() {
 		}
 	}
 }
+

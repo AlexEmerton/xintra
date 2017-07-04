@@ -1,0 +1,19 @@
+{
+	"ism":[
+		{	
+			"topic_name": "Extreme Programming",
+			"pdf_link": [
+				{"link": "ism_exam_2016", "page": 2, "question": "1a"},
+				{"link": "ism_exam_2013", "page": 2, "question": "1c"}
+			]
+		}
+		
+		{	
+			"topic_name": "SELECT Perspective approach",
+			"pdf_link": [
+				{"link": "ism_exam_2016", "page": 2, "question": "1b"},
+			]
+		}
+		
+	]
+}

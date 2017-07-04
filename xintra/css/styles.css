@@ -36,3 +36,9 @@
 #module {
 	padding: 12px 20px 12px 10px; /* Add some padding */
 }
+#pdf_holder {
+	height: 500px;
+}
+
+.pdfobject-container { height: 500px;}
+.pdfobject { border: 1px solid #666; }
