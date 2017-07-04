@@ -1,6 +1,6 @@
 # xintra
 
-Web based exam papers analysis tool
+Online exam papers analysis tool
 
 v0.1
 
