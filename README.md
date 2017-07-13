@@ -32,4 +32,14 @@ To-do:
   4. Research OCR tools  
   5. Make the search terms more undestandble 
   6. Add functionality to go to the result page directly from a search bar
+  
+ v0.3  
+ Links to the results page from index page are generated from JSON files now
+ ism_list and pic_list .html files are now longer in use
+ Querystrings are now used to load the appropriate json file and pdf
+ 
+ To-do:  
+  1. Create sections with information about each question(year, page, question number)
+  2. Make the search terms more undestandble 
+  3. Add functionality to go to the result page directly from a search bar  
 
