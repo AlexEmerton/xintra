@@ -164,6 +164,135 @@
 			"pdf_link": [
 				{"link": "ism_exam_2012", "page":2, "question": "2b"}
 			]
+		},
+		{	
+			"topic_name": "Database broker framework",
+			"pdf_link": [
+				{"link": "ism_exam_2016", "page": 5, "question": "4a"},
+				{"link": "ism_exam_2014", "page": 3, "question": "4b"},
+				{"link": "ism_exam_2013", "page": 3, "question": "3a"}
+			]
+		},
+		{	
+			"topic_name": "Levels of generalisation (broker)",
+			"pdf_link": [
+				{"link": "ism_exam_2016", "page": 5, "question": "4a"},
+				{"link": "ism_exam_2014", "page": 3, "question": "4b"}
+			]
+		},
+		{	
+			"topic_name": "Proxy pattern",
+			"pdf_link": [
+				{"link": "ism_exam_2016", "page": 5, "question": "4b"},
+				{"link": "ism_exam_2012", "page": 2, "question": "2c"}
+			]
+		},
+		{	
+			"topic_name": "Caching",
+			"pdf_link": [
+				{"link": "ism_exam_2016", "page": 5, "question": "4b"},
+				{"link": "ism_exam_2012", "page": 2, "question": "2c"}
+			]
+		},
+		{	
+			"topic_name": "Relational DBMS",
+			"pdf_link": [
+				{"link": "ism_exam_2015", "page": 5, "question": "4a"},
+				{"link": "ism_exam_2015", "page": 5, "question": "4b"}
+			]
+		},
+		{	
+			"topic_name": "Persistent Object",
+			"pdf_link": [
+				{"link": "ism_exam_2015", "page": 5, "question": "4c"}
+			]
+		},
+		{	
+			"topic_name": "Three-schema architecture (DBMS)",
+			"pdf_link": [
+				{"link": "ism_exam_2014", "page": 3, "question": "4a"}
+			]
+		},
+		{	
+			"topic_name": "Data storage layer",
+			"pdf_link": [
+				{"link": "ism_exam_2013", "page": 3, "question": "3a"}
+			]
+		},
+		{	
+			"topic_name": "Coupling",
+			"pdf_link": [
+				{"link": "ism_exam_2016", "page": 7, "question": "6a"}
+			]
+		},
+		{	
+			"topic_name": "Liskov Substitution Principle",
+			"pdf_link": [
+				{"link": "ism_exam_2016", "page": 7, "question": "6b"}
+			]
+		},
+		{	
+			"topic_name": "Class diagram",
+			"pdf_link": [
+				{"link": "ism_exam_2016", "page": 7, "question": "6c"},
+				{"link": "ism_exam_2015", "page": 7, "question": "6c"}
+			]
+		},
+		{	
+			"topic_name": "Types of visibility",
+			"pdf_link": [
+				{"link": "ism_exam_2015", "page": 7, "question": "6a"},
+				{"link": "ism_exam_2012", "page": 3, "question": "3c"}
+			]
+		},
+		{	
+			"topic_name": "Cohesion",
+			"pdf_link": [
+				{"link": "ism_exam_2015", "page": 7, "question": "6b"}
+			]
+		},
+		{	
+			"topic_name": "Integrity constraints",
+			"pdf_link": [
+				{"link": "ism_exam_2014", "page": 3, "question": "3a"}
+			]
+		},
+		{	
+			"topic_name": "Derived attributes",
+			"pdf_link": [
+				{"link": "ism_exam_2014", "page": 3, "question": "3b"}
+			]
+		},
+		{	
+			"topic_name": "Design of associations",
+			"pdf_link": [
+				{"link": "ism_exam_2013", "page": 3, "question": "4a"}
+			]
+		},
+		{	
+			"topic_name": "UI Prototype",
+			"pdf_link": [
+				{"link": "ism_exam_2014", "page": 3, "question": "3c"}
+			]
+		},
+		{	
+			"topic_name": "Designing UI",
+			"pdf_link": [
+				{"link": "ism_exam_2014", "page": 3, "question": "3c"}
+			]
+		},
+		{	
+			"topic_name": "Algorithmic approaches",
+			"pdf_link": [
+				{"link": "ism_exam_2012", "page": 3, "question": "3a"},
+				{"link": "ism_exam_2012", "page": 3, "question": "3a"}
+			]
+		},
+		{	
+			"topic_name": "Non-algorithmic approaches",
+			"pdf_link": [
+				{"link": "ism_exam_2012", "page": 3, "question": "3b"}
+			]
 		}
 	]
 }
