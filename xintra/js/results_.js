@@ -38,7 +38,7 @@
 							output.appendChild(ele_title);
 							output.appendChild(ele);
 							$('head').append( '<script>PDFObject.embed("/pdf/'  + response.ex[index].pdf_link[index_2].link + '.pdf", "#append_holder' +  index_2 + 
-							'", { height: "400px", width: "700px", page: ' + response.ex[index].pdf_link[index_2].page+ '});</script>;');
+							'", { height: "600px", width: "700px", page: ' + response.ex[index].pdf_link[index_2].page+ '});</script>;');
 						}
 					});
 				}

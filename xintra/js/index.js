@@ -1,6 +1,7 @@
  $(function changeMod() {
 	$("#module").change(function() {
 		
+		
 		var opt = $("#module option:selected").val() ;
 		//$('#search').load('lists/' + $(this).val() + '.html');
 		//console.log(opt);
@@ -18,8 +19,10 @@
 					response.ex[index].topic_name +'</a></li>';
 				});
 				//list_HTML += '</ul>';
-				console.log(list_HTML);
-				$('#myUL').append(list_HTML);
+				//console.log(list_HTML);
+				//$("#myUL").html('');
+				$('#myUL').html(list_HTML);
+				list_HTML = '';
 			},
 			error: function() {
 				$('#info').html('<p>An error has occurred</p>'); 
