@@ -2,296 +2,296 @@
 	"ex":[
 		{	
 			"topic_name": "Extreme Programming",
-			"pdf_link": [
-				{"link": "ism_exam_2016", "page": 2, "question": "1a"},
-				{"link": "ism_exam_2013", "page": 2, "question": "1c"}
+			"info": [
+				{"page": 2, "question": "1a", "year": "2016"},
+				{"page": 2, "question": "1c", "year": "2013"}
 			]
 		},
 		{	
 			"topic_name": "SELECT Perspective approach",
-			"pdf_link": [
-				{"link": "ism_exam_2016", "page": 2, "question": "1b"}
+			"info": [
+				{"page": 2, "question": "1b", "year": "2016"}
 			]
 		},
 		{	
 			"topic_name": "White-box reuse approach",
-			"pdf_link": [
-				{"link": "ism_exam_2015", "page": 2, "question": "1a"},
-				{"link": "ism_exam_2014", "page": 2, "question": "1a"},
-				{"link": "ism_exam_2012", "page": 2, "question": "1b"}
+			"info": [
+				{"page": 2, "question": "1a", "year": "2015"},
+				{"page": 2, "question": "1a", "year": "2014"},
+				{"page": 2, "question": "1b", "year": "2012"}
 			]
 		},
 		{	
 			"topic_name": "Black-box reuse approach",
-			"pdf_link": [
-				{"link": "ism_exam_2014", "page": 2, "question": "1a"},
-				{"link": "ism_exam_2012", "page": 2, "question": "1b"}
+			"info": [
+				{"page": 2, "question": "1a", "year": "2014"},
+				{"page": 2, "question": "1b", "year": "2012"}
 			]
 		},
 		{	
 			"topic_name": "Timeboxing",
-			"pdf_link": [
-				{"link": "ism_exam_2013", "page": 2, "question": "1a"}
+			"info": [
+				{"page": 2, "question": "1a", "year": "2013"}
 			]
 		},
 		{	
 			"topic_name": "MoSCoW prioritisation",
-			"pdf_link": [
-				{"link": "ism_exam_2013", "page": 2, "question": "1a"}
+			"info": [
+				{"page": 2, "question": "1a", "year": "2013"}
 			]
 		},
 		{	
 			"topic_name": "Facilitated workshop",
-			"pdf_link": [
-				{"link": "ism_exam_2013", "page": 2, "question": "1b"}
+			"info": [
+				{"page": 2, "question": "1b", "year": "2013"}
 			]
 		},
 		{	
 			"topic_name": "Businesses for reuse",
-			"pdf_link": [
-				{"link": "ism_exam_2012", "page": 2, "question": "1a"}
+			"info": [
+				{"page": 2, "question": "1a", "year": "2012"}
 			]
 		},
 		{	
 			"topic_name": "Facade pattern",
-			"pdf_link": [
-				{"link": "ism_exam_2012", "page": 2, "question": "1c"}
+			"info": [
+				{"page": 2, "question": "1c", "year": "2012"}
 			]
 		},
 		{	
 			"topic_name": "Layering approach",
-			"pdf_link": [
-				{"link": "ism_exam_2016", "page": 6, "question": "5a"},
-				{"link": "ism_exam_2014", "page": 2, "question": "1b"},
-				{"link": "ism_exam_2013", "page": 3, "question": "3b"},
-				{"link": "ism_exam_2012", "page": 4, "question": "4b"}
+			"info": [
+				{"page": 6, "question": "5a", "year": "2016"},
+				{"page": 2, "question": "1b", "year": "2014"},
+				{"page": 3, "question": "3b", "year": "2013"},
+				{"page": 4, "question": "4b", "year": "2012"}
 			]
 		},
 		{	
 			"topic_name": "Three-layer architecture",
-			"pdf_link": [
-				{"link": "ism_exam_2016", "page": 6, "question": "5a"},
-				{"link": "ism_exam_2015", "page": 2, "question": "5b"},
-				{"link": "ism_exam_2014", "page": 2, "question": "1b"}
+			"info": [
+				{"page": 6, "question": "5a", "year": "2016"},
+				{"page": 2, "question": "5b", "year": "2015"},
+				{"page": 2, "question": "1b", "year": "2014"}
 			]
 		},
 		{	
 			"topic_name": "Four-layer architecture",
-			"pdf_link": [
-				{"link": "ism_exam_2016", "page": 6, "question": "5a"},
-				{"link": "ism_exam_2014", "page": 2, "question": "1b"}
+			"info": [
+				{"page": 6, "question": "5a", "year": "2016"},
+				{"page": 2, "question": "1b", "year": "2014"}
 			]
 		},
 		{	
 			"topic_name": "Advantages of subdivision",
-			"pdf_link": [
-				{"link": "ism_exam_2016", "page": 6, "question": "5b, 5c"},
-				{"link": "ism_exam_2014", "page": 2, "question": "1c"}
+			"info": [
+				{"page": 6, "question": "5b, 5c", "year": "2016"},
+				{"page": 2, "question": "1c","year": "2014"}
 			]
 		},
 		{	
 			"topic_name": "Partitioned architecture",
-			"pdf_link": [
-				{"link": "ism_exam_2015", "page": 6, "question": "5a"}
+			"info": [
+				{"page": 6, "question": "5a", "year": "2015"}
 			]
 		},
 		{	
 			"topic_name": "Model-View Controller",
-			"pdf_link": [
-				{"link": "ism_exam_2015", "page": 6, "question": "5b"}
+			"info": [
+				{"page": 6, "question": "5b", "year": "2015"}
 			]
 		},
 		{	
 			"topic_name": "Partitioning",
-			"pdf_link": [
-				{"link": "ism_exam_2014", "page": 2, "question": "1b"}
+			"info": [
+				{"page": 2, "question": "1b", "year": "2014"}
 			]
 		},
 		{	
 			"topic_name": "Open and closed architecture",
-			"pdf_link": [
-				{"link": "ism_exam_2013", "page": 3, "question": "3b"}
+			"info": [
+				{"page": 3, "question": "3b", "year": "2013"}
 			]
 		},
 		{	
 			"topic_name": "Architecture definitions",
-			"pdf_link": [
-				{"link": "ism_exam_2012", "page": 4, "question": "4a"}
+			"info": [
+				{"page": 4, "question": "4a", "year": "2012"}
 			]
 		},
 		{	
 			"topic_name": "Rational Unified Process",
-			"pdf_link": [
-				{"link": "ism_exam_2012", "page": 4, "question": "4a"}
+			"info": [
+				{"page": 4, "question": "4a", "year": "2012"}
 			]
 		},
 		{	
 			"topic_name": "State pattern",
-			"pdf_link": [
-				{"link": "ism_exam_2016", "page": 4, "question": "3a"},
-				{"link": "ism_exam_2013", "page": 3, "question": "4b"}
+			"info": [
+				{"page": 4, "question": "3a", "year": "2016"},
+				{"page": 3, "question": "4b", "year": "2013"}
 			]
 		},
 		{	
 			"topic_name": "Polymorphism",
-			"pdf_link": [
-				{"link": "ism_exam_2016", "page": 4, "question": "3b"},
-				{"link": "ism_exam_2015", "page": 4, "question": "3c"}
+			"info": [
+				{"page": 4, "question": "3b", "year": "2016"},
+				{"page": 4, "question": "3c", "year": "2015"}
 			]
 		},
 		{	
 			"topic_name": "Applying pattern (practical)",
-			"pdf_link": [
-				{"link": "ism_exam_2016", "page": 4, "question": "3b"},
-				{"link": "ism_exam_2015", "page": 4, "question": "3b"}
+			"info": [
+				{"page": 4, "question": "3b", "year": "2016"},
+				{"page": 4, "question": "3b", "year": "2015"}
 			]
 		},
 		{	
 			"topic_name": "Singleton pattern",
-			"pdf_link": [
-				{"link": "ism_exam_2015", "page": 4, "question": "3a"}
+			"info": [
+				{"page": 4, "question": "3a", "year": "2015"}
 			]
 		},
 		{	
 			"topic_name": "Composite pattern",
-			"pdf_link": [
-				{"link": "ism_exam_2015", "page": 4, "question": "3c"},
-				{"link": "ism_exam_2012", "page": 2, "question": "2a"}
+			"info": [
+				{"page": 4, "question": "3c", "year": "2015"},
+				{"page": 2, "question": "2a", "year": "2012"}
 			]
 		},
 		{	
 			"topic_name": "Usage of creational patterns",
-			"pdf_link": [
-				{"link": "ism_exam_2012", "page":2, "question": "2b"}
+			"info": [
+				{"page":2, "question": "2b", "year": "2012"}
 			]
 		},
 		{	
 			"topic_name": "Database broker framework",
-			"pdf_link": [
-				{"link": "ism_exam_2016", "page": 5, "question": "4a"},
-				{"link": "ism_exam_2014", "page": 3, "question": "4b"},
-				{"link": "ism_exam_2013", "page": 3, "question": "3a"}
+			"info": [
+				{"page": 5, "question": "4a", "year": "2016"},
+				{"page": 3, "question": "4b", "year": "2014"},
+				{"page": 3, "question": "3a", "year": "2013"}
 			]
 		},
 		{	
 			"topic_name": "Levels of generalisation (broker)",
-			"pdf_link": [
-				{"link": "ism_exam_2016", "page": 5, "question": "4a"},
-				{"link": "ism_exam_2014", "page": 3, "question": "4b"}
+			"info": [
+				{"page": 5, "question": "4a", "year": "2016"},
+				{"page": 3, "question": "4b", "year": "2014"}
 			]
 		},
 		{	
 			"topic_name": "Proxy pattern",
-			"pdf_link": [
-				{"link": "ism_exam_2016", "page": 5, "question": "4b"},
-				{"link": "ism_exam_2012", "page": 2, "question": "2c"}
+			"info": [
+				{"page": 5, "question": "4b", "year": "2016"},
+				{"page": 2, "question": "2c", "year": "2012"}
 			]
 		},
 		{	
 			"topic_name": "Caching",
-			"pdf_link": [
-				{"link": "ism_exam_2016", "page": 5, "question": "4b"},
-				{"link": "ism_exam_2012", "page": 2, "question": "2c"}
+			"info": [
+				{"page": 5, "question": "4b", "year": "2016"},
+				{"page": 2, "question": "2c", "year": "2012"}
 			]
 		},
 		{	
 			"topic_name": "Relational DBMS",
-			"pdf_link": [
-				{"link": "ism_exam_2015", "page": 5, "question": "4a"},
-				{"link": "ism_exam_2015", "page": 5, "question": "4b"}
+			"info": [
+				{"page": 5, "question": "4a", "year": "2015"},
+				{"page": 5, "question": "4b", "year": "2015"}
 			]
 		},
 		{	
 			"topic_name": "Persistent Object",
-			"pdf_link": [
-				{"link": "ism_exam_2015", "page": 5, "question": "4c"}
+			"info": [
+				{"page": 5, "question": "4c", "year": "2015"}
 			]
 		},
 		{	
 			"topic_name": "Three-schema architecture (DBMS)",
-			"pdf_link": [
-				{"link": "ism_exam_2014", "page": 3, "question": "4a"}
+			"info": [
+				{"page": 3, "question": "4a", "year": "2014"}
 			]
 		},
 		{	
 			"topic_name": "Data storage layer",
-			"pdf_link": [
-				{"link": "ism_exam_2013", "page": 3, "question": "3a"}
+			"info": [
+				{"page": 3, "question": "3a", "year": "2013"}
 			]
 		},
 		{	
 			"topic_name": "Coupling",
-			"pdf_link": [
-				{"link": "ism_exam_2016", "page": 7, "question": "6a"}
+			"info": [
+				{"page": 7, "question": "6a", "year": "2016"}
 			]
 		},
 		{	
 			"topic_name": "Liskov Substitution Principle",
-			"pdf_link": [
-				{"link": "ism_exam_2016", "page": 7, "question": "6b"}
+			"info": [
+				{"page": 7, "question": "6b", "year": "2016"}
 			]
 		},
 		{	
 			"topic_name": "Class diagram",
-			"pdf_link": [
-				{"link": "ism_exam_2016", "page": 7, "question": "6c"},
-				{"link": "ism_exam_2015", "page": 7, "question": "6c"}
+			"info": [
+				{"page": 7, "question": "6c", "year": "2016"},
+				{"page": 7, "question": "6c", "year": "2015"}
 			]
 		},
 		{	
 			"topic_name": "Types of visibility",
-			"pdf_link": [
-				{"link": "ism_exam_2015", "page": 7, "question": "6a"},
-				{"link": "ism_exam_2012", "page": 3, "question": "3c"}
+			"info": [
+				{"page": 7, "question": "6a", "year": "2015"},
+				{"page": 3, "question": "3c", "year": "2012"}
 			]
 		},
 		{	
 			"topic_name": "Cohesion",
-			"pdf_link": [
-				{"link": "ism_exam_2015", "page": 7, "question": "6b"}
+			"info": [
+				{"page": 7, "question": "6b", "year": "2015"}
 			]
 		},
 		{	
 			"topic_name": "Integrity constraints",
-			"pdf_link": [
-				{"link": "ism_exam_2014", "page": 3, "question": "3a"}
+			"info": [
+				{"page": 3, "question": "3a", "year": "2014"}
 			]
 		},
 		{	
 			"topic_name": "Derived attributes",
-			"pdf_link": [
-				{"link": "ism_exam_2014", "page": 3, "question": "3b"}
+			"info": [
+				{"page": 3, "question": "3b", "year": "2014"}
 			]
 		},
 		{	
 			"topic_name": "Design of associations",
-			"pdf_link": [
-				{"link": "ism_exam_2013", "page": 3, "question": "4a"}
+			"info": [
+				{"page": 3, "question": "4a", "year": "2013"}
 			]
 		},
 		{	
 			"topic_name": "UI Prototype",
-			"pdf_link": [
-				{"link": "ism_exam_2014", "page": 3, "question": "3c"}
+			"info": [
+				{"page": 3, "question": "3c", "year": "2014"}
 			]
 		},
 		{	
 			"topic_name": "Designing UI",
-			"pdf_link": [
-				{"link": "ism_exam_2014", "page": 3, "question": "3c"}
+			"info": [
+				{"page": 3, "question": "3c", "year": "2014"}
 			]
 		},
 		{	
 			"topic_name": "Algorithmic approaches",
-			"pdf_link": [
-				{"link": "ism_exam_2012", "page": 3, "question": "3a"},
-				{"link": "ism_exam_2012", "page": 3, "question": "3a"}
+			"info": [
+				{"page": 3, "question": "3a", "year": "2012"},
+				{"page": 3, "question": "3a", "year": "2012"}
 			]
 		},
 		{	
 			"topic_name": "Non-algorithmic approaches",
-			"pdf_link": [
-				{"link": "ism_exam_2012", "page": 3, "question": "3b"}
+			"info": [
+				{"page": 3, "question": "3b", "year": "2012"}
 			]
 		}
 	]

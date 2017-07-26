@@ -24,7 +24,7 @@
 			$.each(response.ex, function(index) {
 
 				if(response.ex[index].topic_name === topic){
-					$.each(response.ex[index].pdf_link, function(index_2){
+					$.each(response.ex[index].info, function(index_2){
 						var output = document.getElementById('pdf_holder');
 						
 						if(!document.getElementById('append_holder' + index_2)) {
@@ -32,13 +32,13 @@
 							var ele_title = document.createElement("div");
 							ele.setAttribute("id","append_holder"+index_2);
 							ele_title.setAttribute("id","holder_title"+index_2);
-							ele_title.innerHTML = '<p>Question number: ' + response.ex[index].pdf_link[index_2].question + '</p>';
+							ele_title.innerHTML = '<p>Year: ' + response.ex[index].info[index_2].year  + '</p><p>Question number: ' + response.ex[index].info[index_2].question + '</p>';
 							
 							
 							output.appendChild(ele_title);
 							output.appendChild(ele);
-							$('head').append( '<script>PDFObject.embed("/pdf/'  + response.ex[index].pdf_link[index_2].link + '.pdf", "#append_holder' +  index_2 + 
-							'", { height: "600px", width: "700px", page: ' + response.ex[index].pdf_link[index_2].page+ '});</script>;');
+							$('head').append( '<script>PDFObject.embed("/pdf/'  + mod + '_exam_' + response.ex[index].info[index_2].year + '.pdf", "#append_holder' +  index_2 + 
+							'", { height: "600px", width: "700px", page: ' + response.ex[index].info[index_2].page+ '});</script>;');
 						}
 					});
 				}
