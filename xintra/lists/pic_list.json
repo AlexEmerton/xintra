@@ -2,159 +2,159 @@
   "ex":[
     {	
     	"topic_name": "Importance of Information systems",
-    	"pdf_link": [
-    		{"link": "pic_exam_2016", "page": 2, "question": "1a"},
-    		{"link": "pic_exam_2014", "page": 2, "question": "1a"}
+    	"info": [
+    		{"year": "2016", "page": 2, "question": "1a"},
+    		{"year": "2014", "page": 2, "question": "1a"}
     	]
     },
     {	
     	"topic_name": "Information systems failure",
-    	"pdf_link": [
-    		{"link": "pic_exam_2016", "page": 2, "question": "1b"},
-    		{"link": "pic_exam_2014", "page": 2, "question": "1b"}
+    	"info": [
+    		{"year": "2016", "page": 2, "question": "1b"},
+    		{"year": "2014", "page": 2, "question": "1b"}
     	]
     },
     {	
     	"topic_name": "Data Protection legislation principles",
-    	"pdf_link": [
-    		{"link": "pic_exam_2016", "page": 2, "question": "2a"},
-    		{"link": "pic_exam_2015", "page": 2, "question": "1a"},
-    		{"link": "pic_exam_2014", "page": 3, "question": "4a"}
+    	"info": [
+    		{"year": "2016", "page": 2, "question": "2a"},
+    		{"year": "2015", "page": 2, "question": "1a"},
+    		{"year": "2014", "page": 3, "question": "4a"}
     	]
     },
     {	
     	"topic_name": "Privacy and Electronic Communications Regulations",
-    	"pdf_link": [
-    		{"link": "pic_exam_2015", "page": 2, "question": "1b"}
+    	"info": [
+    		{"year": "2015", "page": 2, "question": "1b"}
     	]
     },
     {	
     	"topic_name": "Regulation of Investigatory Powers Act",
-    	"pdf_link": [
-    		{"link": "pic_exam_2015", "page": 2, "question": "2b"}
+    	"info": [
+    		{"year": "2015", "page": 2, "question": "2b"}
     	]
     },
     {	
     	"topic_name": "Data Protection Act rights",
-    	"pdf_link": [
-    		{"link": "pic_exam_2016", "page": 2, "question": "2b"}
+    	"info": [
+    		{"year": "2016", "page": 2, "question": "2b"}
     	]
     },
     {	
     	"topic_name": "Freedom of Information",
-    	"pdf_link": [
-    		{"link": "pic_exam_2016", "page": 2, "question": "2c"},
-    		{"link": "pic_exam_2016", "page": 2, "question": "2d"},
-    		{"link": "pic_exam_2015", "page": 2, "question": "1c"},
-    		{"link": "pic_exam_2014", "page": 2, "question": "2a"},
-    		{"link": "pic_exam_2014", "page": 2, "question": "2b"},
-    		{"link": "pic_exam_2014", "page": 2, "question": "2d"}
+    	"info": [
+    		{"year": "2016", "page": 2, "question": "2c"},
+    		{"year": "2016", "page": 2, "question": "2d"},
+    		{"year": "2015", "page": 2, "question": "1c"},
+    		{"year": "2014", "page": 2, "question": "2a"},
+    		{"year": "2014", "page": 2, "question": "2b"},
+    		{"year": "2014", "page": 2, "question": "2d"}
     	]
     },
     {	
     	"topic_name": "Intellectual property",
-    	"pdf_link": [
-    		{"link": "pic_exam_2016", "page": 2, "question": "3a"},
-    		{"link": "pic_exam_2016", "page": 3, "question": "4c"},
-    		{"link": "pic_exam_2015", "page": 3, "question": "3a"},
-    		{"link": "pic_exam_2015", "page": 3, "question": "3b"},
-    		{"link": "pic_exam_2014", "page": 3, "question": "3c"}
+    	"info": [
+    		{"year": "2016", "page": 2, "question": "3a"},
+    		{"year": "2016", "page": 3, "question": "4c"},
+    		{"year": "2015", "page": 3, "question": "3a"},
+    		{"year": "2015", "page": 3, "question": "3b"},
+    		{"year": "2014", "page": 3, "question": "3c"}
     	]
     },
     {	
     	"topic_name": "Copyright and Patents",
-    	"pdf_link": [
-    		{"link": "pic_exam_2016", "page": 2, "question": "3b"}
+    	"info": [
+    		{"year": "2016", "page": 2, "question": "3b"}
     	]
     },
     {	
     	"topic_name": "Copyright infringement",
-    	"pdf_link": [
-    		{"link": "pic_exam_2014", "page": 3, "question": "5c"}
+    	"info": [
+    		{"year": "2014", "page": 3, "question": "5c"}
     	]
     },
     {	
     	"topic_name": "Software patents",
-    	"pdf_link": [
-    		{"link": "pic_exam_2016", "page": 2, "question": "3c"},
-    		{"link": "pic_exam_2015", "page": 3, "question": "3c"}
+    	"info": [
+    		{"year": "2016", "page": 2, "question": "3c"},
+    		{"year": "2015", "page": 3, "question": "3c"}
     	]
     },
     {	
     	"topic_name": "First to File vs First to Invent",
-    	"pdf_link": [
-    		{"link": "pic_exam_2015", "page": 3, "question": "3d"}
+    	"info": [
+    		{"year": "2015", "page": 3, "question": "3d"}
     	]
     },
     {	
     	"topic_name": "Outsourcing contracts",
-    	"pdf_link": [
-    		{"link": "pic_exam_2016", "page": 3, "question": "4a"}
+    	"info": [
+    		{"year": "2016", "page": 3, "question": "4a"}
     	]
     },
     {	
     	"topic_name": "Software development contracts",
-    	"pdf_link": [
-    		{"link": "pic_exam_2016", "page": 3, "question": "4a"},
-    		{"link": "pic_exam_2016", "page": 3, "question": "4b"},
-    		{"link": "pic_exam_2016", "page": 3, "question": "4c"},
-    		{"link": "pic_exam_2015", "page": 4, "question": "5a"},
-    		{"link": "pic_exam_2015", "page": 4, "question": "5b"},
-    		{"link": "pic_exam_2015", "page": 4, "question": "5d"},
-    		{"link": "pic_exam_2014", "page": 3, "question": "3a"},
-    		{"link": "pic_exam_2014", "page": 3, "question": "3b"}
+    	"info": [
+    		{"year": "2016", "page": 3, "question": "4a"},
+    		{"year": "2016", "page": 3, "question": "4b"},
+    		{"year": "2016", "page": 3, "question": "4c"},
+    		{"year": "2015", "page": 4, "question": "5a"},
+    		{"year": "2015", "page": 4, "question": "5b"},
+    		{"year": "2015", "page": 4, "question": "5d"},
+    		{"year": "2014", "page": 3, "question": "3a"},
+    		{"year": "2014", "page": 3, "question": "3b"}
     	]
     },
     {	
     	"topic_name": "Functions of a profession",
-    	"pdf_link": [
-    		{"link": "pic_exam_2016", "page": 3, "question": "5a"}
+    	"info": [
+    		{"year": "2016", "page": 3, "question": "5a"}
     	]
     },
     {	
     	"topic_name": "Profession regulations",
-    	"pdf_link": [
-    		{"link": "pic_exam_2016", "page": 3, "question": "5b"},
-    		{"link": "pic_exam_2016", "page": 3, "question": "5c"},
-    		{"link": "pic_exam_2014", "page": 3, "question": "5a"},
-    		{"link": "pic_exam_2014", "page": 3, "question": "5b"}
+    	"info": [
+    		{"year": "2016", "page": 3, "question": "5b"},
+    		{"year": "2016", "page": 3, "question": "5c"},
+    		{"year": "2014", "page": 3, "question": "5a"},
+    		{"year": "2014", "page": 3, "question": "5b"}
     	]
     },
     {	
     	"topic_name": "Employee data surveillance",
-    	"pdf_link": [
-    		{"link": "pic_exam_2015", "page": 2, "question": "2a"}
+    	"info": [
+    		{"year": "2015", "page": 2, "question": "2a"}
     	]
     },
     {	
     	"topic_name": "European Charter of Rights of Citizens in the Knowledge Society",
-    	"pdf_link": [
-    		{"link": "pic_exam_2015", "page": 2, "question": "2c"}
+    	"info": [
+    		{"year": "2015", "page": 2, "question": "2c"}
     	]
     },
     {	
     	"topic_name": "Malware",
-    	"pdf_link": [
-    		{"link": "pic_exam_2015", "page": 3, "question": "4a"}
+    	"info": [
+    		{"year": "2015", "page": 3, "question": "4a"}
     	]
     },
     {	
     	"topic_name": "Cyber-attacks",
-    	"pdf_link": [
-    		{"link": "pic_exam_2015", "page": 3, "question": "4b"}
+    	"info": [
+    		{"year": "2015", "page": 3, "question": "4b"}
     	]
     },
     {	
     	"topic_name": "Computer misuse",
-    	"pdf_link": [
-    		{"link": "pic_exam_2015", "page": 3, "question": "4c"},
-    		{"link": "pic_exam_2015", "page": 3, "question": "4d"}
+    	"info": [
+    		{"year": "2015", "page": 3, "question": "4c"},
+    		{"year": "2015", "page": 3, "question": "4d"}
     	]
     },
     {	
     	"topic_name": "Changes to clients requirements",
-    	"pdf_link": [
-    		{"link": "pic_exam_2015", "page": 4, "question": "5c"}
+    	"info": [
+    		{"year": "2015", "page": 4, "question": "5c"}
     	]
     }
   ]
