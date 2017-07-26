@@ -36,7 +36,7 @@ To-do:
  v0.3    
  
  Links to the results page from index page are generated from JSON files now  
- ism_list and pic_list .html files are now longer in use  
+ ism_list and pic_list .html files are no longer in use  
  Querystrings are now used to load the appropriate json file and pdf  
  
  To-do:  
