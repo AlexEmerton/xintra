@@ -43,4 +43,9 @@ To-do:
   1. Create sections with information about each question(year, page, question number)
   2. Make the search terms more undestandble 
   3. Add functionality to go to the result page directly from a search bar  
+  
+ v0.3.1  
+ 
+  Updated the json files  
+  Updated the results js file  
 
