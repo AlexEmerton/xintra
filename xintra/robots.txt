@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /extra/
+Disallow: /pdf/
+Disallow: /scripts/
