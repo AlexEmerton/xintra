@@ -49,3 +49,8 @@ To-do:
   Updated the json files  
   Updated the results js file  
 
+v0.4
+
+  Updated the overall style and layout  
+  Updates to CSS files  
+  Added new files assigned to CSS  
