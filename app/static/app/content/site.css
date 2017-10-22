@@ -41,6 +41,6 @@ input[type="checkbox"].input-validation-error {
     display: none;
 }
 
-.container {
+.container bootstrap-overrides{
   background-color: gold;
 }
