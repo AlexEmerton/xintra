@@ -41,6 +41,6 @@ input[type="checkbox"].input-validation-error {
     display: none;
 }
 
-.navbar navbar-inverse navbar-fixed-top {
-  background-color: yellow;
+.navbar-header {
+  background-color: gold;
 }
