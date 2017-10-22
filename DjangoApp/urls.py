@@ -17,10 +17,11 @@ from django.contrib.auth.views import *
 
 urlpatterns = [
     # Examples:
-     
+
     url(r'^$', home, name='home'),
     url(r'^contact$', contact, name='contact'),
     url(r'^about', about, name='about'),
+    url(r'^start', start, name='start'),
    url(r'^login/$', login, {
             'template_name': 'app/login.html',
             'authentication_form': BootstrapAuthenticationForm,
